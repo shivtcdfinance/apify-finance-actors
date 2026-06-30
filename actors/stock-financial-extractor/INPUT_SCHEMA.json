@@ -1,0 +1,1 @@
+{"title":"Stock & Financial Data Input","type":"object","schemaVersion":1,"properties":{"ticker":{"title":"Ticker Symbol","type":"string","description":"Stock ticker (e.g. AAPL, TSLA)","editor":"textfield"},"mode":{"title":"Data Mode","type":"string","description":"quote, history, financials, or sec-filing","editor":"textfield","default":"quote"}},"required":["ticker"]}

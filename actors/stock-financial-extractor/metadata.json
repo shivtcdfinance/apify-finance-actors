@@ -1,0 +1,14 @@
+{
+  "name": "stock-financial-extractor",
+  "apify_id": "Qv9VyP3XdArNaMahw",
+  "version": "3.8",
+  "description": "Get live stock quotes, 40+ years of historical OHLCV data, financial statements, and SEC EDGAR filings for any US ticker. Supports 4 modes: quote, history, financials, sec-filing. Built by Allied Contractors Ltd.",
+  "seo_title": "Stock & Financial Data Extractor | Live Quotes & SEC Filings",
+  "seo_description": "Live stock quotes, 40+ years OHLCV history, financial statements, and SEC EDGAR filings for any US ticker.",
+  "categories": [
+    "AI",
+    "DEVELOPER_TOOLS"
+  ],
+  "is_public": true,
+  "example_input": "{\"ticker\": \"AAPL\", \"mode\": \"quote\"}"
+}

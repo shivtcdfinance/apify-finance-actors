@@ -1,0 +1,14 @@
+{
+  "name": "company-valuation-engine",
+  "apify_id": "Ds73VhrRhezZFBXMW",
+  "version": "5.3",
+  "description": "Value any company using DCF (multi-stage), DDM (3-stage Gordon), trading comps, LBO, and sum-of-parts. Ratios, sensitivity tables, WACC calculation, and terminal value included. Input financial data or link a ticker.",
+  "seo_title": "Company Valuation Engine | DCF & Comparables Analysis",
+  "seo_description": "Multi-method valuation with DCF, comparable company analysis, and precedent transactions.",
+  "categories": [
+    "AI",
+    "DEVELOPER_TOOLS"
+  ],
+  "is_public": true,
+  "example_input": "{\"ticker\": \"AAPL\", \"method\": \"dcf\", \"growth_rate\": 0.05, \"discount_rate\": 0.10}"
+}

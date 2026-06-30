@@ -1,0 +1,17 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "Output Data",
+  "description": "The output data produced by the actor run, stored in the default dataset and key-value store",
+  "properties": {
+    "dataset": {
+      "title": "Dataset",
+      "description": "The default dataset containing all records pushed via Actor.push_data()",
+      "template": "{{dataset}}"
+    },
+    "key_value_store": {
+      "title": "Key-value store output",
+      "description": "The structured output object stored in the key-value store under the key 'OUTPUT'",
+      "template": "{{kvStore.keyValueRecords.OUTPUT}}"
+    }
+  }
+}

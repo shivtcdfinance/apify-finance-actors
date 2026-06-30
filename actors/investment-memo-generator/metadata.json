@@ -1,0 +1,14 @@
+{
+  "name": "investment-memo-generator",
+  "apify_id": "26dJv2V8Mb8eIzB9c",
+  "version": "3.8",
+  "description": "Generates a complete investment memo from ticker input: business summary, industry analysis, financial review, valuation (DCF + comps), risk factors, catalyst timeline, and investment thesis. Output as structured JSON or formatted report text.",
+  "seo_title": "Investment Memo Generator \u2014 AI-Powered Thesis Documents",
+  "seo_description": "Automated investment memos: company overview, financial analysis, valuation, risk assessment. Standard, detailed, executive, and pitch templates.",
+  "categories": [
+    "AI",
+    "DEVELOPER_TOOLS"
+  ],
+  "is_public": true,
+  "example_input": "{\"ticker\": \"AAPL\", \"template\": \"standard\"}"
+}

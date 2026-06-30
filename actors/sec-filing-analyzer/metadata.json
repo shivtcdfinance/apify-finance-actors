@@ -1,0 +1,14 @@
+{
+  "name": "sec-filing-analyzer",
+  "apify_id": "w1aBzbS9Taf5lodF7",
+  "version": "3.9",
+  "description": "Parse and extract key financial data from SEC EDGAR filings. Extract revenue, earnings, cash flow, segment data, risk factors, MD&A, and executive compensation from 10-K (annual) and 10-Q (quarterly) reports. Structured JSON output.",
+  "seo_title": "SEC Filing Analyzer \u2014 10-K, 10-Q & EDGAR Data Extraction",
+  "seo_description": "Parse SEC filings: income statement, balance sheet, cash flow, MD&A, risk factors, segment data, executive compensation. Structured JSON.",
+  "categories": [
+    "AI",
+    "DEVELOPER_TOOLS"
+  ],
+  "is_public": true,
+  "example_input": "{\"ticker\": \"AAPL\", \"filing_type\": \"10-K\", \"sections\": [\"income\",\"balance\",\"cashflow\",\"mda\",\"risk\"]}"
+}

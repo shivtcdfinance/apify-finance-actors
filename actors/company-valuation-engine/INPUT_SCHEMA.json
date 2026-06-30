@@ -1,0 +1,1 @@
+{"title": "Actor Input", "type": "object", "schemaVersion": 1, "properties": {"ticker": {"title": "Ticker", "type": "string", "description": "Stock ticker symbol", "editor": "textfield"}}, "required": ["ticker"]}
