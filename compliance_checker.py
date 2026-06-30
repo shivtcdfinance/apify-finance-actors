@@ -117,7 +117,7 @@ def check_source(versions):
                     "retry": "retry" in c or "backoff" in c,
                     "user_agent": "user-agent" in c,
                     "error_handling": "try:" in c and "except" in c,
-                    "logging": "logging" in c or "print(" in c,
+                    "logging": "logging" in c or "print(" in c or ".log." in c,
                     "timeout": "timeout" in c,
                 }
                 score = sum(checks.values())
