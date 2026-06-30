@@ -1,0 +1,9 @@
+{
+  "name": "crypto-market-data",
+  "apify_id": "hcgrmAmYTS5NIZ49a",
+  "version": "0.1",
+  "description": "Live cryptocurrency prices, market cap, volume, rankings from CoinGecko. Top 250 coins, 24h changes, all-time highs.",
+  "seo_title": "Crypto Market Data \u2014 Live Prices & Rankings",
+  "seo_description": "Live crypto prices, market caps, 24h volume, price changes, rankings for top 250 coins via CoinGecko.",
+  "is_public": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "insider-trading-tracker",
+  "apify_id": "QwXrK6WEv6MYG10dg",
+  "version": "0.1",
+  "description": "Track SEC Form 4 insider transactions for any US ticker. Buys, sells, grants by executives & directors.",
+  "seo_title": "Insider Trading Tracker \u2014 SEC Form 4 Filings",
+  "seo_description": "Track insider buys, sells, grants from SEC Form 4. Executives, directors, filing dates.",
+  "is_public": false
+}

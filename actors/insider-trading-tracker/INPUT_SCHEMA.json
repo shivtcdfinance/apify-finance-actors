@@ -1,0 +1,1 @@
+{"title":"Insider Trading Tracker","type":"object","schemaVersion":1,"properties":{"ticker":{"title":"Ticker","type":"string","description":"Stock ticker","editor":"textfield"},"lookback_days":{"title":"Lookback Days","type":"integer","description":"Days to look back","editor":"number","default":30}},"required":["ticker"]}

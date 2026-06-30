@@ -1,0 +1,1 @@
+{"actorOutputSchemaVersion":1,"title":"Output","properties":{"dataset":{"title":"Dataset","template":"{{dataset}}"},"key_value_store":{"title":"KV Store","template":"{{kvStore.keyValueRecords.OUTPUT}}"}}}

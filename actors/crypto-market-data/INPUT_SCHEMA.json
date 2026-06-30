@@ -1,0 +1,1 @@
+{"title":"Crypto Market Data","type":"object","schemaVersion":1,"properties":{"coins":{"title":"Coins","type":"string","description":"Comma-separated coin IDs","editor":"textfield"},"vs_currency":{"title":"Currency","type":"string","description":"Fiat currency code","editor":"textfield","default":"usd"}},"required":["coins"]}

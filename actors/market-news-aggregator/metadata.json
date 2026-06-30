@@ -1,0 +1,9 @@
+{
+  "name": "market-news-aggregator",
+  "apify_id": "VrRaVEeXmJbqMnQ64",
+  "version": "0.1",
+  "description": "Aggregate financial news headlines for any ticker or topic. Multi-source with sentiment scoring, dates, and source attribution.",
+  "seo_title": "Market News Aggregator \u2014 Financial Headlines",
+  "seo_description": "Financial news headlines for stocks and sectors. Multi-source aggregation with sentiment analysis.",
+  "is_public": false
+}

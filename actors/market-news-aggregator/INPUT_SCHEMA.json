@@ -1,0 +1,1 @@
+{"title":"Market News Aggregator","type":"object","schemaVersion":1,"properties":{"query":{"title":"Query","type":"string","description":"Ticker or topic","editor":"textfield"},"max_articles":{"title":"Max Articles","type":"integer","description":"Max articles (1-50)","editor":"number","default":10}},"required":["query"]}
